@@ -2,6 +2,8 @@
 ## Introduction
 This is a TensorFlow implementation for Sentiment Analysis Method and System Combining Domain Sentiment Dictionary and Word Embedding Technique. This work has been filed.
 
+![image](https://github.com/byunghyun23/sentiment-analysis/blob/main/assets/fig2.png)
+
 ![image](https://github.com/byunghyun23/sentiment-analysis/blob/main/assets/fig1.png)
 
 ## Installation
