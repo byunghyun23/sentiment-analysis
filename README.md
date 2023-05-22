@@ -1,6 +1,6 @@
 # Sentiment Analysis Method and System Combining Domain Sentiment Dictionary and Word Embedding Technique (Patent 10-2022-0066186)
 ## Introduction
-This is a TensorFlow implementation for Sentiment Analysis Method and System Combining Domain Sentiment Dictionary and Word Embedding Technique. This work has been filed.
+This is a TensorFlow implementation for Sentiment Analysis Method and System Combining Domain Sentiment Dictionary and Word Embedding Technique. This work has been patented.
 
 ![image](https://github.com/byunghyun23/sentiment-analysis/blob/main/assets/fig2.png)
 
