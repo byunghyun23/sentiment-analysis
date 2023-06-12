@@ -21,7 +21,7 @@ pip install -r requirements.txt
 [Naver sentiment movie corpus](https://github.com/e9t/nsmc) was used.
 Dataset download is included in the code.
 
-## Training
+## Train
 ```
 python train.py
 ```
